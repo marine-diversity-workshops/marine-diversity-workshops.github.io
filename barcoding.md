@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to barcoding
+title: Barcoding
 ---
 
 Something
