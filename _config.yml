@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Marine Biodiversity Workshops
+tagline:          'Discovering the Beautiful and the Bizarre in your backyard'
+description:      'Resources for high school teachers interested in developing curriculum activities to document marine biodiversity'
+url:              http://marine-diversity-workshops.github.io
+baseurl:          /
+
+author:
+  name:           'Division of Invertebrate Zoology, Florida Museum of Natural History'
+  url:            http://www.flmnh.ufl.edu/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/marine-diversity-workshops/marine-diversity-workshops.github.io
