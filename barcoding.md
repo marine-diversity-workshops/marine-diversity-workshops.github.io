@@ -284,21 +284,53 @@ How do you analyze barcoding data?
 
 For this we will use [SeaView](http://doua.prabi.fr/software/seaview).
 
-Aligning sequences
-------------------
+Step 1: Aligning sequences
+--------------------------
 
-DNA mutations are rare,
+DNA mutations are rare and there is a lot of DNA in each cell. So, if two
+species share a common mutation, it is most likely because they share a common
+ancestor.
 
+<!--
+here insert drawing that shows 3 sequences and related tree
+-->
+
+During the sequencing, the machine that converts the DNA molecule in letters
+that can be interpreted by humans has a hard time reading the beginning and the
+end of the molecule. Therefore, the sequences obtained do not start or end at
+exactly the same position.
+
+<!--
+drawing here representing full molecule, what we amplify, what we sequence
+-->
+
+However, to infer the phylogenetic relationships among the sequences, we need to
+ensure that the base pairs are aligned so we can determine which positions are
+the same across sequences, and which positions have changed. These changed
+positions will help us decide mutations that can be used to infer shared
+ancestry.
+
+<!--
+drawing here showing how alignment works
+-->
 
 ### How to do it?
 
 1. Start SeaView and open the alignment file provided
 1. Use the space bar and backspace on your keyboard to move the sequences around
    so they align
+1. If you have a large alignment or if you have a difficult time finding
+   positions that are conserved enough to build your alignment, you can use one
+   of the automated alignment method provided in SeaView:
+   - Align > Alignment options, choose `muscle`
+   - Align > Allign all
 
 
 Building trees
 --------------
+
+
+
 
 ### How to do it?
 
