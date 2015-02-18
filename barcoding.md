@@ -127,10 +127,10 @@ The PCR consists of 3 steps (Fig [fig:pcr]):
     temperature, the hydrogen bonds linking the two DNA strands are dissociated,
     leading to single-stranded DNA.
 
-- Annealing: the temperature is decreased to 45-65°C. This
-    temperature is typically too high for the DNA to become fully
-    double-stranded but is low enough that the short primer sequences can attach
-    specifically to the part of the DNA that matches their sequences.
+- Annealing: the temperature is decreased to 45-65°C. This temperature is
+    typically too high for the DNA to become fully double-stranded but is low
+    enough that the short primer sequences can attach specifically to the part
+    of the DNA that matches their sequences.
 
 - Elongation: the temperature is brought back up to 72°C, the optimal
     temperature at which the DNA polymerase functions. The polymerase recognizes

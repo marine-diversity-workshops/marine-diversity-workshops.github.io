@@ -3,6 +3,7 @@ markdown:         kramdown
 highlighter:      pygments
 kramdown:
   input: GFM
+  hard_wrap: false
 
 # Permalinks
 permalink:        pretty
