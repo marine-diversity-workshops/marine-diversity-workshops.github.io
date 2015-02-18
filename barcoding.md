@@ -78,8 +78,10 @@ but works very well for barcoding purposes with most organisms. It uses a
 combination of heat, proteinases and a chelating ligand called Chelex.
 
 <div class="panel panel-primary">
-
-### How to do it?: Protocol for the Chelex Extraction
+ <div class="panel-heading">
+    <h3 class="panel-title">How to do it? Protocol for the Chelex Extraction</h3>
+  </div>
+  <div class="panel-body">
 
 1.  Sterilize your forceps and scissors by flaming them over an alcohol
     burner. This will remove any contaminants from your instruments.
