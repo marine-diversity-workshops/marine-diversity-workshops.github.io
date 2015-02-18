@@ -97,6 +97,7 @@ combination of heat, proteinases and a chelating ligand called Chelex.
 
 6.  Incubate your tube at 95°C for at least 20 minutes.
 
+
 </div>
 
 Barcode amplification
