@@ -82,9 +82,9 @@ combination of heat, proteinases and a chelating ligand called Chelex.
 1.  Sterilize your forceps and scissors by flaming them over an alcohol
     burner. This will remove any contaminants from your instruments.
 
-2.  Cut a small piece of tissue about the size of this dot \( \bullet \) (1
-    mm<sup>2</sup> from your sample and place it in a 2 mL tube. Larger tissue
-    samples may inhibit your PCR reactions.
+2.  Cut a small piece of tissue (about 1 mm<sup>2</sup>) from your sample and
+    place it in a 2 mL tube. Larger tissue samples may inhibit your PCR
+    reactions.
 
 3.  Add 150 µL of Chelex bead solution to your 2 mL tube.
 
@@ -145,11 +145,19 @@ increases exponentially through time. These heating and cooling cycles are
 automated and take place in the thermocycler. Typically, the amplification
 process takes about 2.5-3 hours.
 
-![1. The DNA template (blue) is denatured by bringing the solution to 95°C. The DNA becomes single-stranded. 2. The temperature drops to 45-65° to allow the primers (in red) to anneal to each DNA strand. The the polymerase (green sphere) attaches to this short fragment of double-stranded DNA. 3.  The temperature goes back up to 72°C for the elongation to take place which creates copies of the barcode (in green). The process is repeated 30 to 40 times, generating an exponentially increasing number of copies of the barcode at each occurrence of the cycle. From: ]({{ site.baseurl }}img/500px-PCR.png)
+![](img/500px-PCR.png)
+
+1. The DNA template (blue) is denatured by bringing the solution to 95°C. The
+DNA becomes single-stranded. 2. The temperature drops to 45-65° to allow the
+primers (in red) to anneal to each DNA strand. The the polymerase (green sphere)
+attaches to this short fragment of double-stranded DNA. 3.  The temperature goes
+back up to 72°C for the elongation to take place which creates copies of the
+barcode (in green). The process is repeated 30 to 40 times, generating an
+exponentially increasing number of copies of the barcode at each occurrence of
+the cycle. From:
 
 
-
-### How to do it? Protocol for PCR {.message}
+### How to do it? Protocol for PCR
 
 Before we start, we need to figure out how much of each reagent we need to use
 for our PCR. Each reaction uses a total volume of 25 µL (24 µL of
@@ -176,6 +184,7 @@ extractions to amplify, you need to prepare enough Master Mix for 12 samples[2].
 |Water|9.5|12|114|
 |Primer (forward)|1|12|12|
 |Primer (reverse)|1|12|12|
+| Volumnes are in µL     |
 
 Once you are done with the math, you need to:
 
@@ -277,6 +286,7 @@ For this we will use [SeaView](http://doua.prabi.fr/software/seaview).
 Aligning sequences
 ------------------
 
+DNA mutations are rare,
 
 
 ### How to do it?
