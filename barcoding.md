@@ -77,6 +77,8 @@ Here, we will use a faster protocol that doesn’t generate a pure DNA solution
 but works very well for barcoding purposes with most organisms. It uses a
 combination of heat, proteinases and a chelating ligand called Chelex.
 
+<div class="panel panel-primary">
+
 ### How to do it?: Protocol for the Chelex Extraction
 
 1.  Sterilize your forceps and scissors by flaming them over an alcohol
@@ -94,6 +96,8 @@ combination of heat, proteinases and a chelating ligand called Chelex.
     centrifuge is balanced with every tube having a similar tube opposite it.
 
 6.  Incubate your tube at 95°C for at least 20 minutes.
+
+</div>
 
 Barcode amplification
 ---------------------
