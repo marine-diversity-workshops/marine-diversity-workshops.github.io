@@ -185,7 +185,10 @@ extractions to amplify, you need to prepare enough Master Mix for 12 samples[2].
 |Water|9.5|12|114|
 |Primer (forward)|1|12|12|
 |Primer (reverse)|1|12|12|
-| Volumnes are in µL     |
+
+
+
+[^1] volumes are in µL
 
 Once you are done with the math, you need to:
 
@@ -329,13 +332,24 @@ drawing here showing how alignment works
 Building trees
 --------------
 
-
-
+We are going to use the number of base pairs that differ across the sequences in
+our sample, and build a tree that will help us visualize these genetic
+distances.  Individuals that belong to the same species will have identical
+sequences (genetic distance = 0) or very similar sequences, while individuals
+belonging to different species will have significative amount of divergence. It
+depends of the groups and of the evolutionary of the groups, but typically,
+individuals that diverge by more than 2-5% will be different species.
 
 ### How to do it?
 
 1. Click on Trees > Distance Methods
 1. Keep the default values and click "Go"
+
+
+Interpreting trees
+------------------
+
+
 
 
 What can you do with barcodes?
