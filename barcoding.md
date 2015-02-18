@@ -123,16 +123,16 @@ cocktail needs to include:
 
 The PCR consists of 3 steps (Fig [fig:pcr]):
 
-- Denaturation: the PCR cocktail is heated to 95\(^{\circ}\)C. At this
+- Denaturation: the PCR cocktail is heated to 95°C. At this
     temperature, the hydrogen bonds linking the two DNA strands are dissociated,
     leading to single-stranded DNA.
 
-- Annealing: the temperature is decreased to 45-65\(^{\circ}\)C. This
+- Annealing: the temperature is decreased to 45-65°C. This
     temperature is typically too high for the DNA to become fully
     double-stranded but is low enough that the short primer sequences can attach
     specifically to the part of the DNA that matches their sequences.
 
-- Elongation: the temperature is brought back up to 72\(^{\circ}\)C, the optimal
+- Elongation: the temperature is brought back up to 72°C, the optimal
     temperature at which the DNA polymerase functions. The polymerase recognizes
     and attaches to the short double-stranded piece of DNA formed by the DNA
     template and the primer, and starts to use the oligonucleotides found in the
@@ -145,26 +145,26 @@ increases exponentially through time. These heating and cooling cycles are
 automated and take place in the thermocycler. Typically, the amplification
 process takes about 2.5-3 hours.
 
-![1. The DNA template (blue) is denatured by bringing the solution to 95\(^{\circ}\)C. The DNA becomes single-stranded. 2. The temperature drops to 45-65\(^{\circ}\) to allow the primers (in red) to anneal to each DNA strand. The the polymerase (green sphere) attaches to this short fragment of double-stranded DNA. 3.  The temperature goes back up to 72\(^{\circ}\)C for the elongation to take place which creates copies of the barcode (in green). The process is repeated 30 to 40 times, generating an exponentially increasing number of copies of the barcode at each occurrence of the cycle. From: ](500px-PCR)
+![1. The DNA template (blue) is denatured by bringing the solution to 95°C. The DNA becomes single-stranded. 2. The temperature drops to 45-65° to allow the primers (in red) to anneal to each DNA strand. The the polymerase (green sphere) attaches to this short fragment of double-stranded DNA. 3.  The temperature goes back up to 72°C for the elongation to take place which creates copies of the barcode (in green). The process is repeated 30 to 40 times, generating an exponentially increasing number of copies of the barcode at each occurrence of the cycle. From: ](500px-PCR)
 
 
 
 ### How to do it? Protocol for PCR {.message}
 
 Before we start, we need to figure out how much of each reagent we need to use
-for our PCR. Each reaction uses a total volume of 25 \(\mu\)L (24 \(\mu\)L of
-Master Mix and 1 \(\mu\)L from the DNA extraction).
+for our PCR. Each reaction uses a total volume of 25 µL (24 µL of
+Master Mix and 1 µL from the DNA extraction).
 
 We use a pre-made Master Mix that needs to be diluted with water, and to which
 we will need to add the primers.
 
 For each reaction, we need:
 
-- 12.5 \(\mu\)L of Master Mix
+- 12.5 µL of Master Mix
 
-- 1 \(\mu\)L of each primer
+- 1 µL of each primer
 
-- 9.5 \(\mu\)L of water
+- 9.5 µL of water
 
 In addition of our sample, we also try to amplify a tube that does not contain
 any DNA to make sure that our Master Mix is not contaminated[1]. If you have 11
@@ -191,10 +191,10 @@ Once you are done with the math, you need to:
 
 5.  Place the PCR tubes in a rack with ice (or in a cold bloc)
 
-6.  Dispense 24 \(\mu\)L of master mix in each one of the PCR tube, and close
+6.  Dispense 24 µL of master mix in each one of the PCR tube, and close
     the negative control as soon as you are done.
 
-7.  Add 1 \(\mu\)L of each of your extraction to the PCR tubes. Be careful to
+7.  Add 1 µL of each of your extraction to the PCR tubes. Be careful to
     avoid contamination (change tips after each sample, close the tubes as soon
     as you put your template in, count to keep track of where you are etc.)
 
@@ -234,7 +234,7 @@ lengths).
 2.  Position the combs
 
 3.  On a piece of parafilm, use the micropipette to mix for each reaction: 2
-    \(\mu\)L of PCR product, and 2\(\mu\)L of diluted loading dye
+    µL of PCR product, and 2µL of diluted loading dye
 
 4.  Once the gel is fully settled (20+ minutes), add TBE buffer to fully cover
     the gel
