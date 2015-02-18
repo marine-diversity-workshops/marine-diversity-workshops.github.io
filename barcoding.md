@@ -145,7 +145,7 @@ increases exponentially through time. These heating and cooling cycles are
 automated and take place in the thermocycler. Typically, the amplification
 process takes about 2.5-3 hours.
 
-![](img/500px-PCR.png)
+![Illustration of the PCR process]({{ site.baseurl }}img/500px-PCR.png)
 
 1. The DNA template (blue) is denatured by bringing the solution to 95°C. The
 DNA becomes single-stranded. 2. The temperature drops to 45-65° to allow the
