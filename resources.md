@@ -98,24 +98,16 @@ Valdés, A., J. Hamann, D. Behrens, and A. DuPont. 2006. Caribbean sea slugs. A 
 
 ## Online Resources for Species Occurrence, Distribution and Identification
 
-[Discover Life](http://www.discoverlife.org/)
-
-[GBIF](http://www.gbif.org/): Global Biodiversity Information Facility:
-
-[iDigBio](https://www.idigbio.org/)
-
-[iNaturalist](http://www.inaturalist.org)
-
-[Map of Life](https://mol.org/)
-
-[MatBio](http://www.inaturalist.org/projects/matbio-a-coastal-ecosystem-in-ne-florida):
+- [Discover Life](http://www.discoverlife.org/)
+- [GBIF](http://www.gbif.org/): Global Biodiversity Information Facility:
+- [iDigBio](https://www.idigbio.org/)
+- [iNaturalist](http://www.inaturalist.org)
+- [Map of Life](https://mol.org/)
+- [MatBio](http://www.inaturalist.org/projects/matbio-a-coastal-ecosystem-in-ne-florida):
 an iNat project on the Matanzas coastal ecosystem in NE Florida: Also check out
 various species guides for this area on iNaturalist, by
 [searching for Matanzas](http://www.inaturalist.org/guides/search?utf8=%E2%9C%93&q=matanzas&commit=Search).
 These guides are presently divided into several smaller taxonomic units because
 iNat cannot handle too many species in one guide:
-
-
-[OBIS](http://www.iobis.org/): Ocean Biogeographic Information System
-
-[WoRMS](http://www.marinespecies.org/): World Register of Marine Species:
+- [OBIS](http://www.iobis.org/): Ocean Biogeographic Information System
+- [WoRMS](http://www.marinespecies.org/): World Register of Marine Species:
