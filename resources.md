@@ -13,6 +13,12 @@ title: Resources
 
 [Florida Museum of Natural History- Division of Invertebrates](https://www.flmnh.ufl.edu/malacology/)
 
+	Postal address:
+	Florida Museum of Natural History
+	Dickinson Hall
+	PO Box 117800
+	Gainesville, FL 32611-7800
+
 	Dr. Gustav Paulay: Curator
 	paulay@flmnh.ufl.edu
 
@@ -25,15 +31,8 @@ title: Resources
 	Patrick Norby: Graduate Student
 	pnorby@ufl.edu
 
-	*Mandy Bemis: Collections Assistant
+	Mandy Bemis: Collections Assistant
 	abemis@flmnh.ufl.edu
-
-	*If requesting travel compensation, please send all travel receipts to:
-	Mandy Bemis
-	Florida Museum of Natural History
-	Dickinson Hall
-	PO Box 117800
-	Gainesville, FL 32611-7800
 
 
 [Whitney Laboratory for Marine Biosciences](http://www.whitney.ufl.edu/)
