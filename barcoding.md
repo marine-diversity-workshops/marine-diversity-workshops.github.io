@@ -344,8 +344,8 @@ drawing here showing how alignment works
    - Align > Allign all
 
 
-Building trees
---------------
+Step 2: Building trees
+----------------------
 
 We are going to use the number of base pairs that differ across the sequences in
 our sample, and build a tree that will help us visualize these genetic
@@ -361,9 +361,24 @@ individuals that diverge by more than 2-5% will be different species.
 1. Keep the default values and click "Go"
 
 
-Interpreting trees
-------------------
+Step 3: Interpreting trees
+--------------------------
 
+Here we use a basic method (Neighbor-Joining) to build trees that gives good
+result with DNA barcoding data if your goal is to (1) identify species limits;
+(2) assign sequences to species based on existing sequences. The tree obtained
+with DNA barcoding data and this method approximate a phylogenetic tree but is
+not reliable to infer relationships among species that are not very closely
+related.
+
+Trees such as the one we just generated contain a lot of information, represented
+in a compact way.
+
+![Example of a phylogenetic tree]({{ site.baseurl }}img/example_tree_simple.svg)
+
+![Example of a phylogenetic tree]({{ site.baseurl }}img/example_tree_annotations.svg)
+
+Neighbor-Joining
 
 
 
