@@ -13,8 +13,8 @@ Looking at the pictures below:
 
 # Activity 2
 
-Use [SeaView](http://doua.prabi.fr/software/seaview) to align [this file]({{
-site.baseurl }}resources/impatiens.fas) (right click on the link, and then Save
+Use [SeaView](http://doua.prabi.fr/software/seaview) to align
+[this file]({{ site.baseurl }}resources/impatiens.fas) (right click on the link, and then Save
 As…) containing the DNA sequences from the individuals pictured above.
 
 1. How does your original guess compare to what the DNA suggests?
