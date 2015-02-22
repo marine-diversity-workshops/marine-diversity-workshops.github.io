@@ -7,48 +7,54 @@ title: Resources
 
 - [Field sheet template]({{ site.baseurl }}resources/Field_template.xlsx)
 
+## Activities
+
+- [Sea cucumber identification challenge]({{ site.baseurl }}identification-challenge)
 
 ## Contact information
 
 
-[Florida Museum of Natural History -- Division of Invertebrates](https://www.flmnh.ufl.edu/malacology/)
+* [Florida Museum of Natural History -- Division of Invertebrate Zoology](https://www.flmnh.ufl.edu/malacology/)
 
-* Mailing address
+	* Mailing address
 
-> Florida Museum of Natural History <br/>
-> Dickinson Hall  <br/>
-> PO Box 117800  <br/>
-> Gainesville, FL 32611-7800
+	  > Florida Museum of Natural History <br/>
+	  > Dickinson Hall  <br/>
+	  > 1659 Museum Road  <br/>
+	  > Gainesville, FL 32611-7800
 
-* Dr. Gustav Paulay: Curator; 	paulay@flmnh.ufl.edu
-* John Slapcinsky: Collections Manager; slapcin@flmnh.ufl.edu
-* Dr. François Michonneau: Postdoctoral researcher; fmichon@flmnh.ufl.edu
-* Patrick Norby: Graduate Student; pnorby@ufl.edu
-* Mandy Bemis: Collections Assistant; abemis@flmnh.ufl.edu
+	* Dr. Gustav Paulay: Curator
+	  - [paulay@flmnh.ufl.edu](paulay@flmnh.ufl.edu)
+	* John Slapcinsky: Collections Manager
+	  - [slapcin@flmnh.ufl.edu](slapcin@flmnh.ufl.edu)
+	* Dr. François Michonneau: Postdoctoral researcher
+	  - [fmichon@flmnh.ufl.edu](fmichon@flmnh.ufl.edu)
+	* Patrick Norby: Graduate Student
+	  - [pnorby@ufl.edu](pnorby@ufl.edu)
+	* Mandy Bemis: Collections Assistant
+	  - [abemis@flmnh.ufl.edu](abemis@flmnh.ufl.edu)
 
+* [Whitney Laboratory for Marine Biosciences](http://www.whitney.ufl.edu/)
 
-[Whitney Laboratory for Marine Biosciences](http://www.whitney.ufl.edu/)
+	* Brenda Cannaliato: Education Coordinator; brenda@whitney.ufl.edu
 
-* Brenda Cannaliato: Education Coordinator; brenda@whitney.ufl.edu
+* [Seahorse Key Marine Laboratory](https://skml.clas.ufl.edu/)
 
-
-[Seahorse Key Marine Laboratory](https://skml.clas.ufl.edu/)
-
-* Dr. Maria Sgambati: Education and Outreach Coordinator; msgambati@ufl.edu
-
-
-[Florida Marine Science Educators Association](www.fmsea.org)
-
-* Jennifer Fagan: Regional Director; Jennifer.Fagan@stjohns.k12.fl.us
+	* Dr. Maria Sgambati: Education and Outreach Coordinator; msgambati@ufl.edu
 
 
-[Marine Science Station](http://www.citrus.k12.fl.us/mss/)
+* [Florida Marine Science Educators Association](www.fmsea.org)
 
-* Mark Cassidy: Marine Science Station Teacher; cassidym@citrus.k12.fl.us
+	* Jennifer Fagan: Regional Director; Jennifer.Fagan@stjohns.k12.fl.us
 
-[Northwest Florida NaGISA Program](http://www.nagisa.gknu.com/)
 
-* Rick Hernandez: Teacher of the Gifted; HERNANDEZR@mail.okaloosa.k12.fl.us
+* [Marine Science Station](http://www.citrus.k12.fl.us/mss/)
+
+	* Mark Cassidy: Marine Science Station Teacher; cassidym@citrus.k12.fl.us
+
+* [Northwest Florida NaGISA Program](http://www.nagisa.gknu.com/)
+
+	* Rick Hernandez: Teacher of the Gifted; HERNANDEZR@mail.okaloosa.k12.fl.us
 
 
 ## Useful identification guides for Florida Marine Life
