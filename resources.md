@@ -15,9 +15,9 @@ title: Resources
 
 * Mailing address
 
-> Florida Museum of Natural History
-> Dickinson Hall
-> PO Box 117800
+> Florida Museum of Natural History <br/>
+> Dickinson Hall  <br/>
+> PO Box 117800  <br/>
 > Gainesville, FL 32611-7800
 
 * Dr. Gustav Paulay: Curator; 	paulay@flmnh.ufl.edu
