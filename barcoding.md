@@ -150,11 +150,11 @@ process takes about 2.5-3 hours.
 
 ![Illustration of the PCR process]({{ site.baseurl }}img/Polymerase_chain_reaction.svg)
 
-<div class="caption"> 1. The DNA template (blue) is denatured by bringing the
-solution to 95°C. The DNA becomes single-stranded. 2. The temperature drops to
+<div class="caption"> 1. The DNA template (blue) is denatured by bringing the
+solution to 95°C. The DNA becomes single-stranded. 2. The temperature drops to
 45-65° to allow the primers (in red) to anneal to each DNA strand. The the
 polymerase (green sphere) attaches to this short fragment of double-stranded
-DNA. 3.  The temperature goes back up to 72°C for the elongation to take place
+DNA. 3. The temperature goes back up to 72°C for the elongation to take place
 which creates copies of the barcode (in green). The process is repeated 30 to 40
 times, generating an exponentially increasing number of copies of the barcode at
 each occurrence of the cycle. From:
@@ -384,11 +384,24 @@ To understand better this figure and to facilitate its interpretation, we annota
 
 The red dots represent the internal nodes, the blue dots the terminal nodes
 commonly called the tips. The black lines connecting the nodes are the
-branches. Branches are
+branches. Branch lengths represent how closely related individuals included in
+the tree are. For instance, in our example:
 
-Neighbor-Joining
+- individual 1 and 2 have identical sequences (no horizontal distance between
+them) and are the same species;
+- individual 3 and 4 are separated by some horizontal distance and most likely
+  represent different species.
 
+Neighbor-Joining is a distance based method, and the branch lengths directly
+represent the distance (in %) between individuals. The scale bar allows you to
+estimate this genetic distance.
 
+As mentioned earlier, usually distances between 2-5% can be used as a cutoff
+value to delineate species. Species differ in the amount of genetic variation
+that characterize them and this cutoff can't always be applied bindfoldedly.
+
+Look at the annotated tree and make sure you agree with the species being
+delineated.
 
 What can you do with DNA barcodes?
 ==============================
