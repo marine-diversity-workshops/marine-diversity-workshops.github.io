@@ -12,8 +12,8 @@ Looking at the pictures below:
    belong to the same species.
 
 
-![10043](img/10043-HI09-2637.jpg)
+![10043]({{ site.baseurl }}img/10043-HI09-2637.jpg)
 10043
 
-![11012](img/11012-dFMOK11-0571.jpg)
+![11012]({{ site.baseurl }}img/11012-dFMOK11-0571.jpg)
 11012
