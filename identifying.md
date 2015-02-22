@@ -19,9 +19,7 @@ professionals.  This is an oversimplification, however, as in each group there
 may be some species that are very easy to identify (think brown pelican) and
 others that are much more difficult (think winter form of female warbler).
 
-### Level 1: Relatively easy identification, good identification resources
-    available in print or online, with a fair community of naturalists to give
-    species level advice
+### Level 1: Relatively easy identification, good identification resources available in print or online, with a fair community of naturalists to give species level advice
 
 - **Algae:** larger macroalgae
 - **Vascular plants:** all: sea grasses, mangroves, marsh plants
@@ -31,9 +29,7 @@ others that are much more difficult (think winter form of female warbler).
 - **Echinoderms:** whole phylum
 - **Chordates:** vertebrates
 
-### Level 2: Moderately difficult identification, often requires microscopic
-    examination, less synthetic literature, small community of naturalists to
-    give advice.
+### Level 2: Moderately difficult identification, often requires microscopic  examination, less synthetic literature, small community of naturalists to  give advice.
 
 - **Algae:** smaller species
 - **Sponges:** larger species
@@ -45,7 +41,7 @@ others that are much more difficult (think winter form of female warbler).
 - **Arthropods:** peracarid crustaceans (amphipods, isopods, cumaceans, mysids), barnacles
 - **Chordates:** sea squirts, lancelets
 
-## Level 3:  Realm of professionals and hardcore amateurs – other taxa not mentioned above.
+### Level 3:  Realm of professionals and hardcore amateurs – other taxa not mentioned above.
 
 ## Social Media as a Tool to Identify Marine Organisms
 
