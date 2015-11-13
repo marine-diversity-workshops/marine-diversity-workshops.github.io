@@ -7,8 +7,13 @@ This website is collection of resources for high school teachers interested in
 developing curriculum activities aimed at documenting marine biodiversity.
 
 The first workshop in the series was held on Februray 20-22, 2015 at the
-[Whitney Marine Laboratory](http://www.whitney.ufl.edu/), University of Florida. If
-you are interested in participating in the next one,
+[Whitney Marine Laboratory](http://www.whitney.ufl.edu/), University of Florida.
+
+The second workshop was held on November 14-15, 2015 at the [Marine Science
+Station](http://mss.citrusschools.org/), Crystal River, Florida.
+
+
+If you are interested in participating in the next one,
 [contact Patrick Norby](mailto:pnorby@ufl.edu).
 
 The content of this website has been created by
