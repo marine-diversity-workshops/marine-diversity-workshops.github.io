@@ -55,7 +55,7 @@ As…)
 ![8355]({{ site.baseurl }}img/8355-dAUST-2576.jpg)
 8355
 
-![collage]({{ site.baseurl}}/img/impatiens_slide.jpg)
+![collage]({{ site.baseurl}}img/impatiens_slide.jpg)
 All specimens at a glance
 
 ## Brittle star challenge
